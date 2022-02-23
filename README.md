@@ -1,5 +1,5 @@
 # Panorama_for_TowImages
-In the script Panorama.py is a code that takes two images and stiches them into one panoramic image We used in this script the Orb algorithm with Knnmatch and Homograph matrix in order to reach the result
+
 author: Ibrahem Wattaweda
 
 
